@@ -20,7 +20,7 @@
 				<string>rom</string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
-			<string>RomIcon.icns</string>
+			<string>ICONROMO.icns</string>
 			<key>CFBundleTypeName</key>
 			<string>Mini vMac Rom image</string>
 			<key>CFBundleTypeOSTypes</key>
@@ -36,7 +36,7 @@
 				<string>dsk</string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
-			<string>DskIcon.icns</string>
+			<string>ICONDSKO.icns</string>
 			<key>CFBundleTypeName</key>
 			<string>Mini vMac Disk image</string>
 			<key>CFBundleTypeOSTypes</key>
@@ -48,11 +48,11 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>mnvm8317</string>
+	<string>minivmac</string>
 	<key>CFBundleGetInfoString</key>
-	<string>mnvm8317-3.4.1-imch, Copyright 2016 maintained by Paul C. Pratt.</string>
+	<string>minivmac-36.04-mc64, Copyright 2018 maintained by Paul C. Pratt.</string>
 	<key>CFBundleIconFile</key>
-	<string>AppIcon.icns</string>
+	<string>ICONAPPO.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.gryphel.minivmac.im</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -62,12 +62,16 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.4.1</string>
+	<string>36.04</string>
 	<key>CFBundleSignature</key>
 	<string>MnvM</string>
 	<key>CFBundleVersion</key>
-	<string>3.4.1</string>
+	<string>36.04</string>
 	<key>LSRequiresCarbon</key>
+	<string>1</string>
+	<key>NSHighResolutionCapable</key>
+	<string>1</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
 	<string>1</string>
 </dict>
 </plist>

@@ -1,1 +1,2 @@
 *.dsk filter=lfs diff=lfs merge=lfs -text
+macOS755.dsk.zip filter=lfs diff=lfs merge=lfs -text
